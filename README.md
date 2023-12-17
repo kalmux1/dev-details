@@ -8,4 +8,4 @@ This Bash Script will tell you about your { Computer | Node | OS | Kernal | Desk
     $ chmod +x start.sh
     $ bash start.sh    
 
-![Image](https://github.com/kalmux1/dev-details/blob/main/image.png)
+
