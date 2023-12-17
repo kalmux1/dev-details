@@ -9,3 +9,6 @@ This Bash Script will tell you about your { Computer | Node | OS | Kernal | Desk
     $ bash start.sh    
 
 
+# **TOOL IMAGE**
+
+![image](https://github.com/kalmux1/dev-details/blob/main/Tool.png)
