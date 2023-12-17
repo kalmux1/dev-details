@@ -3,3 +3,9 @@ This Bash Script will tell you about your { Computer | Node | OS | Kernal | Desk
 
 INSTALLATION PROCESS
 
+    $ git clone https://github.com/kalmux1/dev-details.git
+    $ cd dev-details
+    $ chmod +x start.sh
+    $ bash start.sh    
+
+
