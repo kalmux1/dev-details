@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 
 #Installing The Neofetch Tool On The Local System 
