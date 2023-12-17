@@ -9,4 +9,3 @@ This Bash Script will tell you about your { Computer | Node | OS | Kernal | Desk
     $ bash start.sh    
 
 ![Image](https://github.com/kalmux1/dev-details/blob/main/image.png)
-![Alt text](image-1.png)
