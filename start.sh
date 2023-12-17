@@ -8,7 +8,7 @@ echo "This may take some time based on your Internet speed"
 
 
 a=$(sudo apt-get install neofetch -y)
-echo "$a"
+
 
 
 # Running Neofetch For Grabbing The System deep information
